@@ -76,7 +76,7 @@ pkg install wget;wget https://raw.githubusercontent.com/meareyou/lel_remake_User
 ## License
 Licensed under [Raphielscape Public License](https://github.com/meareyou/lel_remake_UserBoto/blob/x-sql-extended/LICENSE) - Version 1.d, February 2020
 
-<p align="center"><a href="https://t.me/crypto08"> <img src="https://img.shields.io/badge/Sang%20Editod%20Berkentod-blue?style=flat&logo=telegram" width="310" height="34.45" /></a></p>
+<p align="center"><a href="https://t.me/Si_Ilham"> <img src="https://img.shields.io/badge/Sang%20Editod%20Berkentod-blue?style=flat&logo=telegram" width="310" height="34.45" /></a></p>
 <p align="center"><a href="https://t.me/adayangsagne"> <img src="https://img.shields.io/badge/Contributors%20Berkentod-cyan?style=flat&logo=telegram" width="310" height="34.45" /></a></p>
 
 #Some modules are made here
